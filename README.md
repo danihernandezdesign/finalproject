@@ -3,6 +3,7 @@ Final Project Process Documentary
 #### Danielle Hernandez / Dec 15th 2018
 
 ![I'm an image](https://raw.githubusercontent.com/danihernandezdesign/finalproject/master/myface.png)
+
 My face, as visualized by this project.
 
 #### Background:
@@ -30,6 +31,10 @@ I was able to change the fills of the paths of my .eps as patterns - allowing me
 ![I'm an image](https://raw.githubusercontent.com/danihernandezdesign/finalproject/master/Key.jpg)
 
 As you can see, through certain colors that denote positive vs. negative (within my thesis' project brand palette) and symbols for 'yes' and 'no', participants responses' were visualized on the vector face. 
+
+![I'm an image](https://raw.githubusercontent.com/danihernandezdesign/finalproject/master/final.png)
+
+You can view the final visualization here: https://editor.p5js.org/danihernandezdesign/full/H1_IOmCJ4
 
 #### Ongoing Challenges + Next Steps:
 Participants can generate an image and reset it - but I struggled to encode a way to make it save. I experimented with the 'save button' exporting the canvas to JSON - however in attempting to shift my code back into a sketch.js file the entire thing broke. Prior to Joey's advice, I installed a couple .js files I thought might help according to help boards and people posing similar questions to no avail. The current band-aid solution is having participants take screenshots and upload to the website - however there is always an option to share that image via the online community I'll be building at the start of my intervention. 
