@@ -9,14 +9,15 @@ I’m interested in how understanding racial identity can begin at home. Based o
 #### Purpose: 
 This seemed like a really interesting way to visualize and humanize the information that users would be submitting. The idea of using a face also ties in well with the visual language I’ve already established for my thesis. This project hinged on answering the question: how can I foster community by visualizing shared experiences in the parents who will be participating in my project?
 #### Process:
-###### Step 1: Collecting data
-What questions might serve as a baseline for establishing understanding and a quick overview of parents' and childrens' current understanding of ethnic racial identity? The questions posed in my visualization were based on insights from my thesis research and topics that keep coming up. 
+###### Step 1: Collecting + Analyzing data
+What questions might serve as a baseline for establishing understanding and a quick overview of parents' and childrens' current understanding of ethnic racial identity? The questions posed in my visualization were based on insights from my thesis research and topics that keep coming up. Instead of identifying an existing dataset, I was committed to designing an interactive experience where the dataset would be built and visualized in realtime. I’ve always loved Giorgia Lupi's "Data Portrait at Ted" that utilizes personal data to create a connection between people. Is there a way to streamline and scale it to showcase what makes us similar and also what makes us unique? 
 
-###### Step 2: Analyzing data
-![I'm an image](https://raw.githubusercontent.com/ytsai2/dsi-datavis-final/master/%20.png)
-
-
-###### Step 3: How to visualize the data
+###### Step 2: Process
+![I'm an image](https://raw.githubusercontent.com/danihernandezdesign/finalproject/master/DataVizConcept2.gif)
 
 
-#### Challenges:
+
+###### Step 3: Final Visualization
+![I'm an image](https://raw.githubusercontent.com/danihernandezdesign/finalproject/master/Key.jpg)
+
+#### Ongoing Challenges + Next Steps:
